@@ -7,15 +7,6 @@ This is a template repository for creating online courses in higher education cr
 
 
 
-You'll find the following:
-
-Find more on how to utilizie this ressource in the online-course X
-
-Examples of how these courses could look:
-
-
-
-
 Credit goes to the original G0RELLA template lectures.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4279400.svg)](https://doi.org/10.5281/zenodo.4279400)
 
